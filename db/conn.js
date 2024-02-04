@@ -8,9 +8,9 @@ const sequelize = new Sequelize('thoughts', 'root', '', {
 
 try {
     sequelize.authenticate()
-    console.log('Conectamos com sucesso!')
+    console.log('We connect successfully!')
 } catch(err) {
-    console.log(`Não foi possível conectar: ${err}`)
+    console.log(`Unable to connect: ${err}`)
 }
 
 module.exports = sequelize
