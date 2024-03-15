@@ -32,9 +32,6 @@ Um website para compartilhar os seus pensamentos(Thoughts) e ver os pensamentos 
 - Express
 - Express-Flash
 - Express-Session
-- Connect-Flash
-- Cookie-Parser
-- Cookie-Session
 - Session-File-Store
 - Sequelize
 - MySQL
