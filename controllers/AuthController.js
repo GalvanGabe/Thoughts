@@ -1,4 +1,3 @@
-const session = require('express-session')
 const User = require('../models/User')
 
 const bcrypt = require('bcryptjs')
